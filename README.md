@@ -107,7 +107,7 @@ plot026 <- plot_htp(
 )
 ```
 
-Here we show the canopy indicators for block **B1** of genotype **CQC-026**
+Here we show the canopy indicators for block **B1, B2** and **B3** of genotype **CQC-026**
 
 
 <!-- ![Geospatial Products Batch 1](figs/geoProducst_B1.png) -->
@@ -118,9 +118,16 @@ Here we show the canopy indicators for block **B1** of genotype **CQC-026**
 <!-- <p align="center">
   <img src="figs/geoProducst_B1.png" width="45%">
   <img src="figs/geoProducst_B2.png" width="45%">
+  <img src="figs/geoProducst_B3.png" width="45%">
 </p> -->
 
-<p align="center"><img src="figs/geoProducts_B1.png" width="33%"><img src="figs/geoProducts_B2.png" width="33%"><img src="figs/geoProducts_B3.png" width="33%"></p>
+
+<p align="center">
+  <img src="figs/geoProducst_B1.png" width="32%">
+  <img src="figs/geoProducst_B2.png" width="32%">
+  <img src="figs/geoProducst_B3.png" width="32%">
+</p>
+
 
 
 ---
