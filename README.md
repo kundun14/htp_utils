@@ -115,10 +115,12 @@ Here we show the canopy indicators for block **B1** of genotype **CQC-026**
 ![Geospatial Products Batch 4](figs/geoProducst_B3.png)
 ![Geospatial Products Batch 4](figs/geoProducst_B4.png) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="figs/geoProducst_B1.png" width="45%">
   <img src="figs/geoProducst_B2.png" width="45%">
-</p>
+</p> -->
+
+<p align="center"><img src="figs/geoProducts_B1.png" width="33%"><img src="figs/geoProducts_B2.png" width="33%"><img src="figs/geoProducts_B3.png" width="33%"></p>
 
 
 ---
