@@ -9,8 +9,12 @@ The package focuses on extracting multispectral indicators such as canopy cover,
 ---
 
 
-![Geospatial Products Batch 1](figs/htp_utils_flow.png)
+<!-- ![Geospatial Products Batch 1](figs/htp_utils_flow.png) -->
 
+<p align="center">
+<img src="figs/htp_utils_flow.png" width="900"><br>
+<b>Figure 1.</b> Workflow of the <code>htp_utils</code> processing pipeline.
+</p>
 
 
 ## 2. Problem Statement
@@ -74,7 +78,7 @@ NDVI = \frac{\text{NIR} - \text{Red}}{\text{NIR} + \text{Red}}
 $$
 
 
-This function generated the zonal statistics of the geospatial products, also writes the
+We can generate the zonal statistics of the geospatial products, also write the
 correspoding files in the local folder.
 
 ```r
@@ -103,14 +107,8 @@ plot026 <- plot_htp(
 )
 ```
 
-Here we show the canopy indicators for all blocks of genotype **CQC-026**
+Here we show the canopy indicators for block **B1** of genotype **CQC-026**
 
-<!-- ```
-fig / geoProducts_B1.png
-fig / geoProducts_B2.png
-fig / geoProducts_B3.png
-fig / geoProducts_B4.png
-``` -->
 
 ![Geospatial Products Batch 1](figs/geoProducst_B1.png)
 <!-- ![Geospatial Products Batch 4](figs/geoProducst_B2.png)
@@ -178,12 +176,8 @@ htp_features <- htp_pheno$features
 htp_fitting_metrics <- htp_pheno$quality
 ```
 
-Generated figures:
-
-<!-- ```
-fig / Grid_Fit_NDVI_subset.png
-fig / Grid_Fit_CC_subset.png
-``` -->
+We can plot the fitted functions for each genotype and each variable, here we show the fitte functions
+for NDVI and Canopy Cover for **CQC-026**.
 
 ![Geospatial Products Batch 1](figs/Grid_Fit_NDVI_subset.png)
 ![Geospatial Products Batch 1](figs/Grid_Fit_CC_subset.png)
