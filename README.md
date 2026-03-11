@@ -107,27 +107,10 @@ fig / geoProducts_B3.png
 fig / geoProducts_B4.png
 ``` -->
 
-<p align="center">
-  <img src="figs/geoProducts_B1.png" width="900">
-</p>
-
-<p align="center">
-  <img src="figs/geoProducts_B2.png" width="900">
-</p>
-
-<p align="center">
-  <img src="figs/geoProducts_B3.png" width="900">
-</p>
-
-<p align="center">
-  <img src="figs/geoProducts_B4.png" width="900">
-</p>
-
-
-<div align="center">
-  <img src="figs/geoProducts_B4.png" alt="SOLANUM Model Diagram" width="70%"/>
-</div>
-
+![Geospatial Products Batch 1](figs/geoProducst_B1.png)
+<!-- ![Geospatial Products Batch 4](figs/geoProducst_B2.png)
+![Geospatial Products Batch 4](figs/geoProducst_B3.png)
+![Geospatial Products Batch 4](figs/geoProducst_B4.png) -->
 
 ---
 
@@ -192,10 +175,13 @@ htp_fitting_metrics <- htp_pheno$quality
 
 Generated figures:
 
-```
+<!-- ```
 fig / Grid_Fit_NDVI_subset.png
 fig / Grid_Fit_CC_subset.png
-```
+``` -->
+
+![Geospatial Products Batch 1](figs/Grid_Fit_NDVI_subset.png)
+![Geospatial Products Batch 1](figs/GGrid_Fit_CC_subset.png)
 
 ---
 
@@ -217,10 +203,13 @@ boxplot(
 
 Generated figures:
 
-```
+<!-- ```
 fig / Boxplot_F3.png
 fig / Boxplot_F11.png
-```
+``` -->
+![Geospatial Products Batch 1](figs/Boxplot_F3.png)
+![Geospatial Products Batch 1](figs/Boxplot_F11.png)
+
 
 ---
 
@@ -308,6 +297,7 @@ plot_comparison_grid(
 
 Generated figures:
 
-```
+<!-- ```
 fig / regresion_plots.png
-```
+``` -->
+![Geospatial Products Batch 1](figs/regresion_plots.png)
