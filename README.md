@@ -123,9 +123,9 @@ Here we show the canopy indicators for block **B1, B2** and **B3** of genotype *
 
 
 <p align="center">
-  <img src="figs/geoProducst_B1.png" width="32%">
-  <img src="figs/geoProducst_B2.png" width="32%">
-  <img src="figs/geoProducst_B3.png" width="32%">
+  <img src="figs/geoProducst_B1.png" width="45%">
+  <img src="figs/geoProducst_B2.png" width="45%">
+  <img src="figs/geoProducst_B3.png" width="45%">
 </p>
 
 
