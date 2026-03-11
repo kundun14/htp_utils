@@ -110,10 +110,16 @@ plot026 <- plot_htp(
 Here we show the canopy indicators for block **B1** of genotype **CQC-026**
 
 
-![Geospatial Products Batch 1](figs/geoProducst_B1.png)
+<!-- ![Geospatial Products Batch 1](figs/geoProducst_B1.png) -->
 <!-- ![Geospatial Products Batch 4](figs/geoProducst_B2.png)
 ![Geospatial Products Batch 4](figs/geoProducst_B3.png)
 ![Geospatial Products Batch 4](figs/geoProducst_B4.png) -->
+
+<p align="center">
+  <img src="figs/geoProducst_B1.png" width="45%">
+  <img src="figs/geoProducst_B2.png" width="45%">
+</p>
+
 
 ---
 
