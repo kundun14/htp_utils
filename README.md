@@ -8,6 +8,11 @@ The package focuses on extracting multispectral indicators such as canopy cover,
 
 ---
 
+
+![Geospatial Products Batch 1](figs/htp_utils_flow.png)
+
+
+
 ## 2. Problem Statement
 
 Phenotyping is the process of measuring and analyzing observable plant traits in order to understand their characteristics, performance, and genetic makeup (Bian et al., 2022). In modern agricultural research, remote sensing technologies such as UAV platforms and satellite imagery have become important tools for collecting phenotypic information at high spatial and temporal resolution (Feng et al., 2021; Rallo et al., 2020).
@@ -181,7 +186,7 @@ fig / Grid_Fit_CC_subset.png
 ``` -->
 
 ![Geospatial Products Batch 1](figs/Grid_Fit_NDVI_subset.png)
-![Geospatial Products Batch 1](figs/GGrid_Fit_CC_subset.png)
+![Geospatial Products Batch 1](figs/Grid_Fit_CC_subset.png)
 
 ---
 
@@ -201,14 +206,12 @@ boxplot(
 )
 ```
 
-Generated figures:
-
 <!-- ```
 fig / Boxplot_F3.png
 fig / Boxplot_F11.png
 ``` -->
-![Geospatial Products Batch 1](figs/Boxplot_F3.png)
-![Geospatial Products Batch 1](figs/Boxplot_F11.png)
+<!-- ![Geospatial Products Batch 1](figs/Boxplot_F3.png)
+![Geospatial Products Batch 1](figs/Boxplot_F11.png) -->
 
 
 ---
