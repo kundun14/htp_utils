@@ -122,12 +122,19 @@ Here we show the canopy indicators for block **B1** and **B2** of genotype **CQC
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="figs/geoProducst_B1.png" width="48%">
   <img src="figs/geoProducst_B2.png" width="48%">
   <!-- <img src="figs/geoProducst_B3.png" width="45%"> -->
-</p>
+<!-- </p> --> -->
 
+<table align="center">
+<tr>
+<td><img src="figs/geoProducst_B1.png" width="100%"></td>
+<td><img src="figs/geoProducst_B2.png" width="100%"></td>
+<td><img src="figs/geoProducst_B3.png" width="100%"></td>
+</tr>
+</table>
 
 
 ---
